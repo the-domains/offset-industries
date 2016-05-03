@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Offset Industries]]></title>
         <description><![CDATA[Offset Industries]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/offset-industries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 13:07:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 15:41:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/offset-industries/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aca65c2-ae8d-486e-ad22-490b03503b9f.png">]]></description>
+            <link>https://thegrid.ai/offset-industries/cb8cb5a3-4721-41f5-a853-b254a7e6661b/index.html</link>
+            <guid isPermaLink="false">cb8cb5a3-4721-41f5-a853-b254a7e6661b</guid>
+            <pubDate>Tue, 03 May 2016 15:41:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The vision here is to create an environmental services company that helps those companies looking to conduct business in more environmentally responsible ways achieve their goals. Initially we are going to offer services in aquatic ecology, wetland ecology, biodiversity management and carbon dioxide offsets.</p>]]></description>
-            <link>undefinedthe-vision-here-is-to-create-an-environmental-services-compa/index.html</link>
+            <link>https://thegrid.ai/offset-industries/the-vision-here-is-to-create-an-environmental-services-compa/index.html</link>
             <guid isPermaLink="false">bdb0a63b-ae54-42b8-b34f-de7e5ab2d07c</guid>
             <pubDate>Thu, 28 Apr 2016 13:07:14 GMT</pubDate>
         </item>
