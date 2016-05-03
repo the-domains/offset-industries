@@ -1,7 +1,7 @@
 name: Offset Industries
 favicon: null
-layout_spectrum: 0.7899873028509319
-typography_spectrum: 0.5170583322178572
+layout_spectrum: 0.49731
+typography_spectrum: 0.24564
 title: Our Vision
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5218687548767775
-  lightness: 0.3834265200421214
-  saturation: 0.25758516578935087
+    - '#ffffff'
+    - '#000000'
+    - '#9b9b9b'
+    - '#4f276d'
+    - '#525252'
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.4375
   rhythmicContrast: 0.33813053532503545
 purpose: []
